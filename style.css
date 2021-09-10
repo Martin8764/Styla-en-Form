@@ -1,0 +1,46 @@
+*{
+    padding:0.5%;
+    margin:0.5%;
+}
+legend{
+    font-family:TestFont;
+}
+figcaption {
+    color: black;
+    font-style: italic;
+    padding: 2px;
+    text-align: center;
+}
+.fig1{
+    width:25%;
+    height:17%;
+    float: left;
+}
+.fig2{
+    width:25%;
+    height:17%;
+    float: left;
+}
+.fig3{
+    width:25%;
+    height:17%;
+    float: left;
+}
+.fig4{
+    width:25%;
+    height:17%;
+    float: left;
+}
+#Top{
+    font-size:20px;
+}
+#Bottom{
+    font-size:20px;
+}
+figure img, figure figcaption{
+    width:30%;
+    height:5%;
+    margin: auto;
+    background-color:gray;
+    border-radius: 20px;
+}
